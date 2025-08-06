@@ -5,18 +5,18 @@ Marque `[x]` conforme for completando cada item.
 Itens com 🔸 são opcionais/intermediários.  
 Itens com 🔹 são avançados/futuros.
 
----
-
 ## ✅ Etapa 1: Fundamentos de TypeScript (Pré-requisito)
 
-- [ ] Tipos primitivos (string, number, boolean, etc.)
+- [x] Tipos primitivos (string, number, boolean, etc.)
 - [ ] Funções (declarações, arrow functions, parâmetros opcionais/padrão)
+- [ ] Arrays, Tuplas, Enums e tipos especiais (`any`, `unknown`, `void`, `never`)
+- [ ] Union Types e Type Aliases (`string | number`, `type Id = string`)
+- [ ] Type Assertions (`as`, `<>`)
 - [ ] Interfaces
 - [ ] Classes e herança
 - [ ] Generics
 - [ ] Modularização (import/export entre arquivos)
-
----
+- [ ] 🔹 Tipos avançados (`readonly`, `keyof`, `in`, `typeof`, `infer`, `satisfies`)
 
 ## ✅ Etapa 2: Fundamentos do Angular com CLI
 
@@ -28,8 +28,6 @@ Itens com 🔹 são avançados/futuros.
 - [ ] Buildar com `ng build`
 - [ ] Organização inicial da estrutura de pastas
 
----
-
 ## ✅ Etapa 3: Conceitos essenciais do Angular
 
 - [ ] Componentes standalone
@@ -40,8 +38,6 @@ Itens com 🔹 são avançados/futuros.
 - [ ] Manipulação de eventos no template
 - [ ] Formulários: Template-driven
 - [ ] Formulários: Reactive Forms
-
----
 
 ## ✅ Etapa 4: Estrutura e arquitetura de aplicação
 
@@ -55,8 +51,6 @@ Itens com 🔹 são avançados/futuros.
 - [ ] Organização por feature
 - [ ] Shared Module vs Core Module
 
----
-
 ## ✅ Etapa 5: Consumo de dados e reatividade
 
 - [ ] Uso do `HttpClient` (`@angular/common/http`)
@@ -67,16 +61,12 @@ Itens com 🔹 são avançados/futuros.
 - [ ] Interceptadores HTTP
 - [ ] 🔸 NGRX Signals (opcional, mais avançado)
 
----
-
 ## 🔄 Etapa 6: Experiência do usuário
 
 - [ ] Acessibilidade (A11Y) básica
 - [ ] Design system / Biblioteca de componentes (ex: PrimeNG)
 - [ ] 🔸 Internacionalização (`@angular/localize`)
 - [ ] 🔸 Otimizações de performance (`trackBy`, `ChangeDetectionStrategy`, etc.)
-
----
 
 ## 🔜 Etapa 7: Recursos avançados (posterior)
 
@@ -86,8 +76,6 @@ Itens com 🔹 são avançados/futuros.
 - [ ] 🔹 Testes unitários com Jasmine/Karma
 - [ ] 🔹 Testes e2e com Cypress/Playwright
 - [ ] 🔹 Design Patterns no Angular
-
----
 
 ## 🧩 Extras importantes para o mundo real
 
