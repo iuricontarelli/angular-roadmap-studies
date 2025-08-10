@@ -7,15 +7,15 @@ Os **Pipes** no Angular são usados para transformar valores exibidos no templat
 ### 🔹 Pipes nativos
 O Angular oferece diversos pipes prontos para uso:
 
-| Pipe       | Exemplo de uso                    | Saída              |
-|------------|-----------------------------------|--------------------|
-| `date`     | `{{ hoje | date:'dd/MM/yyyy' }}`  | 10/08/2025         |
-| `uppercase`| `{{ 'angular' | uppercase }}`     | ANGULAR            |
-| `lowercase`| `{{ 'ANGULAR' | lowercase }}`     | angular            |
-| `currency` | `{{ 1500 | currency:'BRL' }}`     | R$ 1.500,00        |
-| `percent`  | `{{ 0.25 | percent }}`            | 25%                |
-| `json`     | `{{ objeto | json }}`             | JSON formatado     |
-| `slice`    | `{{ lista | slice:1:3 }}`         | Elementos de 1 a 3 |
+| Pipe      | Exemplo de uso                         | Saída              |
+|-----------|----------------------------------------|--------------------|
+| `date`    | `{{ hoje \| date:'dd/MM/yyyy' }}`       | 10/08/2025         |
+| `uppercase`| `{{ 'angular' \| uppercase }}`         | ANGULAR            |
+| `lowercase`| `{{ 'ANGULAR' \| lowercase }}`         | angular            |
+| `currency` | `{{ 1500 \| currency:'BRL' }}`         | R$ 1.500,00        |
+| `percent`  | `{{ 0.25 \| percent }}`                | 25%                |
+| `json`     | `{{ objeto \| json }}`                 | JSON formatado     |
+| `slice`    | `{{ lista \| slice:1:3 }}`             | Elementos de 1 a 3 |
 
 Exemplo com `date` e `currency`:
 ```ts
