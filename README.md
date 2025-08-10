@@ -11,7 +11,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Funções (declarações, arrow functions, parâmetros opcionais/padrão)
 - [x] Arrays, Tuplas, Enums e tipos especiais (`any`, `unknown`, `void`, `never`)
 - [x] Union Types e Type Aliases (`string | number`, `type Id = string`)
-- [ ] Type Assertions (`as`, `<>`)
+- [x] Type Assertions (`as`, `<>`)
 - [ ] Interfaces
 - [ ] Classes e herança
 - [ ] Generics
