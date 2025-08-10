@@ -18,17 +18,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Modularização (import/export entre arquivos)
 - [x] 🔹 Tipos avançados (`readonly`, `keyof`, `in`, `typeof`, `infer`, `satisfies`)
 
-## ✅ Etapa 2: Fundamentos do Angular com CLI
-
-- [ ] Instalar Angular CLI
-- [ ] Criar projeto Angular com CLI
-- [ ] Gerar componentes com CLI
-- [ ] Gerar serviços com CLI
-- [ ] Executar app com `ng serve`
-- [ ] Buildar com `ng build`
-- [ ] Organização inicial da estrutura de pastas
-
-## ✅ Etapa 3: Conceitos essenciais do Angular
+## ✅ Etapa 2: Conceitos essenciais do Angular
 
 - [ ] Componentes standalone
 - [ ] Data Binding: interpolação, property binding, event binding, two-way
@@ -39,7 +29,7 @@ Itens com 🔹 são avançados/futuros.
 - [ ] Formulários: Template-driven
 - [ ] Formulários: Reactive Forms
 
-## ✅ Etapa 4: Estrutura e arquitetura de aplicação
+## ✅ Etapa 3: Estrutura e arquitetura de aplicação
 
 - [ ] Serviços e Injeção de Dependência
 - [ ] Roteamento básico e avançado
@@ -51,7 +41,7 @@ Itens com 🔹 são avançados/futuros.
 - [ ] Organização por feature
 - [ ] Shared Module vs Core Module
 
-## ✅ Etapa 5: Consumo de dados e reatividade
+## ✅ Etapa 4: Consumo de dados e reatividade
 
 - [ ] Uso do `HttpClient` (`@angular/common/http`)
 - [ ] Observables e RxJS
@@ -61,14 +51,14 @@ Itens com 🔹 são avançados/futuros.
 - [ ] Interceptadores HTTP
 - [ ] 🔸 NGRX Signals (opcional, mais avançado)
 
-## 🔄 Etapa 6: Experiência do usuário
+## 🔄 Etapa 5: Experiência do usuário
 
 - [ ] Acessibilidade (A11Y) básica
 - [ ] Design system / Biblioteca de componentes (ex: PrimeNG)
 - [ ] 🔸 Internacionalização (`@angular/localize`)
 - [ ] 🔸 Otimizações de performance (`trackBy`, `ChangeDetectionStrategy`, etc.)
 
-## 🔜 Etapa 7: Recursos avançados (posterior)
+## 🔜 Etapa 6: Recursos avançados (posterior)
 
 - [ ] 🔹 Server-Side Rendering (Angular Universal)
 - [ ] 🔹 Static Site Generation
