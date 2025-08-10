@@ -20,7 +20,7 @@ Itens com 🔹 são avançados/futuros.
 
 ## ✅ Etapa 2: Conceitos essenciais do Angular
 
-- [ ] Componentes standalone
+- [x] Componentes standalone
 - [ ] Data Binding: interpolação, property binding, event binding, two-way
 - [ ] Diretivas estruturais (`*ngIf`, `*ngFor`)
 - [ ] Diretivas de atributo (`[ngClass]`, `[ngStyle]`)
