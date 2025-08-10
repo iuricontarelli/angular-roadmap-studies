@@ -22,7 +22,7 @@ Itens com 🔹 são avançados/futuros.
 
 - [x] Componentes standalone
 - [x] Data Binding: interpolação, property binding, event binding, two-way
-- [ ] Diretivas estruturais (`*ngIf`, `*ngFor`)
+- [x] Diretivas estruturais (`*ngIf`, `*ngFor`)
 - [ ] Diretivas de atributo (`[ngClass]`, `[ngStyle]`)
 - [ ] Pipes (nativos e customizados)
 - [ ] Manipulação de eventos no template
