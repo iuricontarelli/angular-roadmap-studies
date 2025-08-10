@@ -25,7 +25,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Diretivas estruturais (`*ngIf`, `*ngFor`)
 - [x] Diretivas de atributo (`[ngClass]`, `[ngStyle]`)
 - [x] Pipes (nativos e customizados)
-- [ ] Manipulação de eventos no template
+- [x] Manipulação de eventos no template
 - [ ] Formulários: Template-driven
 - [ ] Formulários: Reactive Forms
 
