@@ -26,7 +26,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Diretivas de atributo (`[ngClass]`, `[ngStyle]`)
 - [x] Pipes (nativos e customizados)
 - [x] Manipulação de eventos no template
-- [ ] Formulários: Template-driven
+- [x] Formulários: Template-driven
 - [ ] Formulários: Reactive Forms
 
 ## ✅ Etapa 3: Estrutura e arquitetura de aplicação
