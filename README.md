@@ -8,7 +8,7 @@ Itens com 🔹 são avançados/futuros.
 ## ✅ Etapa 1: Fundamentos de TypeScript (Pré-requisito)
 
 - [x] Tipos primitivos (string, number, boolean, etc.)
-- [ ] Funções (declarações, arrow functions, parâmetros opcionais/padrão)
+- [x] Funções (declarações, arrow functions, parâmetros opcionais/padrão)
 - [ ] Arrays, Tuplas, Enums e tipos especiais (`any`, `unknown`, `void`, `never`)
 - [ ] Union Types e Type Aliases (`string | number`, `type Id = string`)
 - [ ] Type Assertions (`as`, `<>`)
