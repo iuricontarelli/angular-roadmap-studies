@@ -13,7 +13,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Union Types e Type Aliases (`string | number`, `type Id = string`)
 - [x] Type Assertions (`as`, `<>`)
 - [x] Interfaces
-- [ ] Classes e herança
+- [x] Classes e herança
 - [ ] Generics
 - [ ] Modularização (import/export entre arquivos)
 - [ ] 🔹 Tipos avançados (`readonly`, `keyof`, `in`, `typeof`, `infer`, `satisfies`)
