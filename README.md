@@ -12,7 +12,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Arrays, Tuplas, Enums e tipos especiais (`any`, `unknown`, `void`, `never`)
 - [x] Union Types e Type Aliases (`string | number`, `type Id = string`)
 - [x] Type Assertions (`as`, `<>`)
-- [ ] Interfaces
+- [x] Interfaces
 - [ ] Classes e herança
 - [ ] Generics
 - [ ] Modularização (import/export entre arquivos)
