@@ -24,7 +24,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Data Binding: interpolação, property binding, event binding, two-way
 - [x] Diretivas estruturais (`*ngIf`, `*ngFor`)
 - [x] Diretivas de atributo (`[ngClass]`, `[ngStyle]`)
-- [ ] Pipes (nativos e customizados)
+- [x] Pipes (nativos e customizados)
 - [ ] Manipulação de eventos no template
 - [ ] Formulários: Template-driven
 - [ ] Formulários: Reactive Forms
