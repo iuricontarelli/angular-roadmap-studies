@@ -14,7 +14,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Type Assertions (`as`, `<>`)
 - [x] Interfaces
 - [x] Classes e herança
-- [ ] Generics
+- [x] Generics
 - [ ] Modularização (import/export entre arquivos)
 - [ ] 🔹 Tipos avançados (`readonly`, `keyof`, `in`, `typeof`, `infer`, `satisfies`)
 
