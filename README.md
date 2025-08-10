@@ -15,7 +15,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Interfaces
 - [x] Classes e herança
 - [x] Generics
-- [ ] Modularização (import/export entre arquivos)
+- [x] Modularização (import/export entre arquivos)
 - [ ] 🔹 Tipos avançados (`readonly`, `keyof`, `in`, `typeof`, `infer`, `satisfies`)
 
 ## ✅ Etapa 2: Fundamentos do Angular com CLI
