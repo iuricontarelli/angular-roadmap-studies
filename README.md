@@ -43,7 +43,7 @@ Itens com 🔹 são avançados/futuros.
 
 ## ✅ Etapa 4: Consumo de dados e reatividade
 
-- [ ] Uso do `HttpClient` (`@angular/common/http`)
+- [x] Uso do `HttpClient` (`@angular/common/http`)
 - [ ] Observables e RxJS
 - [ ] Principais operadores: `map`, `tap`, `switchMap`, `catchError`
 - [ ] Uso de `Subject` e `BehaviorSubject`
