@@ -62,7 +62,7 @@ Itens com 🔹 são avançados/futuros.
 
 - [x] 🔹 Server-Side Rendering (Angular Universal)
 - [x] 🔹 Static Site Generation
-- [ ] 🔹 State Management (NGRX, NGXS, SignalsStore)
+- [x] 🔹 State Management (NGRX, NGXS, SignalsStore)
 - [ ] 🔹 Testes unitários com Jasmine/Karma
 - [ ] 🔹 Testes e2e com Cypress/Playwright
 - [ ] 🔹 Design Patterns no Angular
