@@ -46,7 +46,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Uso do `HttpClient` (`@angular/common/http`)
 - [x] Observables e RxJS
 - [x] Principais operadores: `map`, `tap`, `switchMap`, `catchError`
-- [ ] Uso de `Subject` e `BehaviorSubject`
+- [x] Uso de `Subject` e `BehaviorSubject`
 - [ ] Tratamento de erros HTTP
 - [ ] Interceptadores HTTP
 - [ ] 🔸 NGRX Signals (opcional, mais avançado)
