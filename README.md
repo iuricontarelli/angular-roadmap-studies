@@ -74,4 +74,4 @@ Itens com 🔹 são avançados/futuros.
 - [x] Uso de variáveis de ambiente (`environment.ts`)
 - [x] Organização de models e DTOs
 - [x] Versionamento com Git + Conventional Commits
-- [ ] Deploy do app Angular (Vercel, Netlify, S3, etc.)
+- [x] Deploy do app Angular (Vercel, Netlify, S3, etc.)
