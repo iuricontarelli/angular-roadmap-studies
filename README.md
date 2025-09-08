@@ -69,7 +69,7 @@ Itens com 🔹 são avançados/futuros.
 
 ## 🧩 Extras importantes para o mundo real
 
-- [ ] Integração com API REST real
+- [x] Integração com API REST real
 - [ ] Autenticação (Token, Keycloak, etc.)
 - [ ] Uso de variáveis de ambiente (`environment.ts`)
 - [ ] Organização de models e DTOs
