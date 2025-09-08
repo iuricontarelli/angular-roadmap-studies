@@ -64,7 +64,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] 🔹 Static Site Generation
 - [x] 🔹 State Management (NGRX, NGXS, SignalsStore)
 - [x] 🔹 Testes unitários com Jasmine/Karma
-- [ ] 🔹 Testes e2e com Cypress/Playwright
+- [x] 🔹 Testes e2e com Cypress/Playwright
 - [ ] 🔹 Design Patterns no Angular
 
 ## 🧩 Extras importantes para o mundo real
