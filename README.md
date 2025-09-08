@@ -36,7 +36,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Lazy loading de rotas
 - [x] Rotas protegidas com Guards
 - [x] Comunicação entre componentes (Input/Output)
-- [ ] Serviços compartilhados
+- [x] Serviços compartilhados
 - [ ] Diretivas customizadas
 - [ ] Organização por feature
 - [ ] Shared Module vs Core Module
