@@ -39,7 +39,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Serviços compartilhados
 - [x] Diretivas customizadas
 - [x] Organização por feature
-- [ ] Shared Module vs Core Module
+- [x] Shared Module vs Core Module
 
 ## ✅ Etapa 4: Consumo de dados e reatividade
 
