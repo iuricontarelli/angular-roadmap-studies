@@ -54,7 +54,7 @@ Itens com 🔹 são avançados/futuros.
 ## 🔄 Etapa 5: Experiência do usuário
 
 - [x] Acessibilidade (A11Y) básica
-- [ ] Design system / Biblioteca de componentes (ex: PrimeNG)
+- [x] Design system / Biblioteca de componentes (ex: PrimeNG)
 - [ ] 🔸 Internacionalização (`@angular/localize`)
 - [ ] 🔸 Otimizações de performance (`trackBy`, `ChangeDetectionStrategy`, etc.)
 
