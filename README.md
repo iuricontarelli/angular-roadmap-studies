@@ -49,7 +49,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Uso de `Subject` e `BehaviorSubject`
 - [x] Tratamento de erros HTTP
 - [x] Interceptadores HTTP
-- [ ] 🔸 NGRX Signals (opcional, mais avançado)
+- [x] 🔸 NGRX Signals
 
 ## 🔄 Etapa 5: Experiência do usuário
 
