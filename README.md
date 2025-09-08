@@ -31,8 +31,8 @@ Itens com 🔹 são avançados/futuros.
 
 ## ✅ Etapa 3: Estrutura e arquitetura de aplicação
 
-- [ ] Serviços e Injeção de Dependência
-- [ ] Roteamento básico e avançado
+- [x] Serviços e Injeção de Dependência
+- [x] Roteamento básico e avançado
 - [ ] Lazy loading de rotas
 - [ ] Rotas protegidas com Guards
 - [ ] Comunicação entre componentes (Input/Output)
