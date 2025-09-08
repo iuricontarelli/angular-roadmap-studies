@@ -34,7 +34,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Serviços e Injeção de Dependência
 - [x] Roteamento básico e avançado
 - [x] Lazy loading de rotas
-- [ ] Rotas protegidas com Guards
+- [x] Rotas protegidas com Guards
 - [ ] Comunicação entre componentes (Input/Output)
 - [ ] Serviços compartilhados
 - [ ] Diretivas customizadas
