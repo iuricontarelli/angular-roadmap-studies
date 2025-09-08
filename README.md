@@ -73,5 +73,5 @@ Itens com 🔹 são avançados/futuros.
 - [x] Autenticação (Token, Keycloak, etc.)
 - [x] Uso de variáveis de ambiente (`environment.ts`)
 - [x] Organização de models e DTOs
-- [ ] Versionamento com Git + Conventional Commits
+- [x] Versionamento com Git + Conventional Commits
 - [ ] Deploy do app Angular (Vercel, Netlify, S3, etc.)
