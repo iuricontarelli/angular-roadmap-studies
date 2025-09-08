@@ -47,7 +47,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Observables e RxJS
 - [x] Principais operadores: `map`, `tap`, `switchMap`, `catchError`
 - [x] Uso de `Subject` e `BehaviorSubject`
-- [ ] Tratamento de erros HTTP
+- [x] Tratamento de erros HTTP
 - [ ] Interceptadores HTTP
 - [ ] 🔸 NGRX Signals (opcional, mais avançado)
 
