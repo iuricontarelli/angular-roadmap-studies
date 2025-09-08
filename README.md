@@ -55,7 +55,7 @@ Itens com 🔹 são avançados/futuros.
 
 - [x] Acessibilidade (A11Y) básica
 - [x] Design system / Biblioteca de componentes (ex: PrimeNG)
-- [ ] 🔸 Internacionalização (`@angular/localize`)
+- [x] 🔸 Internacionalização (`@angular/localize`)
 - [ ] 🔸 Otimizações de performance (`trackBy`, `ChangeDetectionStrategy`, etc.)
 
 ## 🔜 Etapa 6: Recursos avançados (posterior)
