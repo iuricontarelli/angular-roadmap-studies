@@ -58,9 +58,9 @@ Itens com 🔹 são avançados/futuros.
 - [x] 🔸 Internacionalização (`@angular/localize`)
 - [x] 🔸 Otimizações de performance (`trackBy`, `ChangeDetectionStrategy`, etc.)
 
-## 🔜 Etapa 6: Recursos avançados (posterior)
+## 🔜 Etapa 6: Recursos avançados
 
-- [ ] 🔹 Server-Side Rendering (Angular Universal)
+- [x] 🔹 Server-Side Rendering (Angular Universal)
 - [ ] 🔹 Static Site Generation
 - [ ] 🔹 State Management (NGRX, NGXS, SignalsStore)
 - [ ] 🔹 Testes unitários com Jasmine/Karma
