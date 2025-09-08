@@ -61,7 +61,7 @@ Itens com 🔹 são avançados/futuros.
 ## 🔜 Etapa 6: Recursos avançados
 
 - [x] 🔹 Server-Side Rendering (Angular Universal)
-- [ ] 🔹 Static Site Generation
+- [x] 🔹 Static Site Generation
 - [ ] 🔹 State Management (NGRX, NGXS, SignalsStore)
 - [ ] 🔹 Testes unitários com Jasmine/Karma
 - [ ] 🔹 Testes e2e com Cypress/Playwright
