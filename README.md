@@ -71,7 +71,7 @@ Itens com 🔹 são avançados/futuros.
 
 - [x] Integração com API REST real
 - [x] Autenticação (Token, Keycloak, etc.)
-- [ ] Uso de variáveis de ambiente (`environment.ts`)
+- [x] Uso de variáveis de ambiente (`environment.ts`)
 - [ ] Organização de models e DTOs
 - [ ] Versionamento com Git + Conventional Commits
 - [ ] Deploy do app Angular (Vercel, Netlify, S3, etc.)
