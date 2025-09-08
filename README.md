@@ -48,7 +48,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Principais operadores: `map`, `tap`, `switchMap`, `catchError`
 - [x] Uso de `Subject` e `BehaviorSubject`
 - [x] Tratamento de erros HTTP
-- [ ] Interceptadores HTTP
+- [x] Interceptadores HTTP
 - [ ] 🔸 NGRX Signals (opcional, mais avançado)
 
 ## 🔄 Etapa 5: Experiência do usuário
