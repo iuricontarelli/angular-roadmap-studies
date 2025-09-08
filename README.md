@@ -65,7 +65,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] 🔹 State Management (NGRX, NGXS, SignalsStore)
 - [x] 🔹 Testes unitários com Jasmine/Karma
 - [x] 🔹 Testes e2e com Cypress/Playwright
-- [ ] 🔹 Design Patterns no Angular
+- [x] 🔹 Design Patterns no Angular
 
 ## 🧩 Extras importantes para o mundo real
 
