@@ -38,7 +38,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Comunicação entre componentes (Input/Output)
 - [x] Serviços compartilhados
 - [x] Diretivas customizadas
-- [ ] Organização por feature
+- [x] Organização por feature
 - [ ] Shared Module vs Core Module
 
 ## ✅ Etapa 4: Consumo de dados e reatividade
