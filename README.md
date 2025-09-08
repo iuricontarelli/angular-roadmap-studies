@@ -35,7 +35,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Roteamento básico e avançado
 - [x] Lazy loading de rotas
 - [x] Rotas protegidas com Guards
-- [ ] Comunicação entre componentes (Input/Output)
+- [x] Comunicação entre componentes (Input/Output)
 - [ ] Serviços compartilhados
 - [ ] Diretivas customizadas
 - [ ] Organização por feature
