@@ -37,7 +37,7 @@ Itens com 🔹 são avançados/futuros.
 - [x] Rotas protegidas com Guards
 - [x] Comunicação entre componentes (Input/Output)
 - [x] Serviços compartilhados
-- [ ] Diretivas customizadas
+- [x] Diretivas customizadas
 - [ ] Organização por feature
 - [ ] Shared Module vs Core Module
 
